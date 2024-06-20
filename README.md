@@ -8,4 +8,6 @@
 * **Airflow** - инструмента для автоматизации процессов загрузки новых данных и обновления дашборда
 * **Superset** - для построения дашборда
 
-[image](Снимок экрана 2024-06-20 в 17.07.27.png)
+![Снимок экрана 2024-06-20 в 17.07.27](https://github.com/DarinaSeva/superset_airflow_postgress/raw/main/Снимок%20экрана%202024-06-20%20в%2017.07.27.png)
+![Снимок экрана 2024-06-20 в 17.07.41](https://github.com/DarinaSeva/superset_airflow_postgress/raw/main/Снимок%20экрана%202024-06-20%20в%2017.07.41.png)
+![Снимок экрана 2024-06-20 в 17.07.53](https://github.com/DarinaSeva/superset_airflow_postgress/raw/main/Снимок%20экрана%202024-06-20%20в%2017.07.53.png)
